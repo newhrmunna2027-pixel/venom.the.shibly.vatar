@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://node12.zampto.net:20686/$1"
+      "destination": "http://venom-spam-panel.onrender.com/$1"
     }
   ]
 }
