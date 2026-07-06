@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://venom-30bf.onrender.com/$1"
+      "destination": "https://venom-12xh.onrender.com/$1"
     }
   ]
 }
