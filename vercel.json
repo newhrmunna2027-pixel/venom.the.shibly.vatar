@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://venom-fsmh.onrender.com/$1"
+      "destination": "https://venom-9og2.onrender.com/$1"
     }
   ]
 }
