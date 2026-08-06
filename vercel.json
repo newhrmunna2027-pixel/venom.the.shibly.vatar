@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://web-production-da951.up.railway.app/$1"
+      "destination": "https://venom-letest-spam.onrender.com/$1"
     }
   ]
 }
