@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://venom-letest-spam.onrender.com/$1"
+      "destination": "https://sticky-graceful-octal--munnadhali017.replit.app/$1"
     }
   ]
 }
