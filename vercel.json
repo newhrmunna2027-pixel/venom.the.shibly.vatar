@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://sticky-graceful-octal--munnadhali017.replit.app/$1"
+      "destination": "https://venom--munnadhali017.replit.app/$1"
     }
   ]
 }
